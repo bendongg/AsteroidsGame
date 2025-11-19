@@ -13,6 +13,10 @@ public void setup()
 public void draw() 
 {
   background(0);
+  fill(255, 105, 180);
+   textSize(500);
+    text("67", 500, 500);
+
 
   for (int i = 0; i < sue.length; i++) {
     sue[i].show();
