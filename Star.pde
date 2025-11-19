@@ -17,6 +17,5 @@ class Star //note that this class does NOT extend Floater
     fill(255, 105, 180);
     textSize(20);
     text(myNum, myX, myY);
-
   }
 }
